@@ -1,0 +1,70 @@
+body {
+  background-color: #0F172A;
+  color: #E5E7EB;
+  text-transform: capitalize;
+  font-family: Arial, sans-serif;
+}
+
+.top{
+    text-align: center;
+    text-decoration:none ;
+    text-transform: capitalize;
+    text-shadow: 2px 2px 7px #E5f5ff;
+    font-size: 25px;
+}
+.top-dis{
+    text-align: center;
+    text-decoration:none ;
+    text-transform: capitalize;
+    text-shadow: 2px 2px 7px #E5E7Ef;
+    font-size: 45px;
+}
+.For-Who{
+    text-align: center;
+    text-decoration:none ;
+    text-transform: capitalize;
+    text-shadow: 2px 2px 7px #E5E7Ef;
+    font-size: 25px;
+    margin-top: -10px;   
+}
+.hr-1{
+    opacity: 60%;
+    width: 500px;
+    margin-bottom:-2px ;
+}
+.hr-2{
+    opacity: 60%;
+    width: 470px;
+    margin-top:4px;
+    margin-bottom: 70px
+}
+.ul-1{
+    text-align: ;
+    text-decoration:none ;
+    text-transform: capitalize;
+    text-shadow: 2px 2px 7px #E5E7Ef;
+    font-size: 25px;
+    margin-top: 10px;
+}
+.li-1{
+    text-decoration:none ;color: #E5E7EB;
+    text-transform: capitalize;
+    text-shadow: 2px 2px 7px #E5E7Ef;
+    font-size: 25px;
+}
+.i-am{
+    text-align: center;
+    text-decoration:none ;color: #E5E7EB;
+    text-transform: capitalize;
+    text-shadow: 2px 2px 7px #E5E7Ef;
+    margin-top: 10px;   
+    margin-bottom: 0px;
+}
+footer{
+    text-align: center;
+    text-decoration:none ;color: #E5E7EB;
+    text-transform: capitalize;
+    text-shadow: 2px 2px 7px #E5E7Ef;
+    font-size: 25px;
+    margin-top: 10px;
+}
